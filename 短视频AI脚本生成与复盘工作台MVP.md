@@ -27,17 +27,17 @@ flowchart LR
 
 ## 目录
 
-- [项目设计](docs/project-design.md)
-- [工作流画布](docs/workflow-canvas.md)
-- [提示词与变量](docs/prompts-and-variables.md)
-- [可演示 Demo](docs/demo.md)
-- [测试与边界](docs/evaluation.md)
+- [项目设计](项目案例文档/短视频AI脚本生成与复盘工作台/project-design.md)
+- [工作流画布](项目案例文档/短视频AI脚本生成与复盘工作台/workflow-canvas.md)
+- [提示词与变量](项目案例文档/短视频AI脚本生成与复盘工作台/prompts-and-variables.md)
+- [可演示 Demo](项目案例文档/短视频AI脚本生成与复盘工作台/demo.md)
+- [测试与边界](项目案例文档/短视频AI脚本生成与复盘工作台/evaluation.md)
 
 ## Demo 使用方式
 
 本仓库不依赖密钥即可理解和演示设计：
 
-1. 打开 `docs/demo.md`。
+1. 打开 `项目案例文档/短视频AI脚本生成与复盘工作台/demo.md`。
 2. 使用示例输入运行内容解析 Agent。
 3. 检查结构化输出中的证据、未知项和可迁移机制。
 4. 将用户确认后的结果交给脚本生成 Agent。
