@@ -12,6 +12,8 @@ MVP原型、Agent逻辑验证全部在Codex平台完成；**部分项目已私�
 短视频 AI 脚本生成与复盘工作台（交互式演示版）：[`demo/index.html`](demo/index.html)
 
 演示流程：账号建档 → 内容解析 → 选题确认 → 脚本生成 → 数据复盘。Demo 使用合成数据，无需 API Key。
+
+GitHub Pages 发布后访问：`https://ke417.github.io/ai-agent-product-portfolio/`
 珠宝商品 AI 素材生成 Agent（精简演示版）正在单独整理。
 
 ## 📁 项目目录
