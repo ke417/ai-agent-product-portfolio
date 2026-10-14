@@ -1,0 +1,15 @@
+.env
+*.key
+*.pem
+*.dpapi
+*.mp4
+*.mov
+*.m4v
+*.wav
+*.mp3
+*.zip
+research/
+local_app/
+scripts/
+logs/
+__pycache__/
